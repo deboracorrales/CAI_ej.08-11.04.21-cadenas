@@ -25,7 +25,8 @@ namespace CAI_ej._08_03._04._21_cadenas
 				Console.WriteLine("Bien! su frase contiene la palabra " + palabra);
 			}
 
-			Console.WriteLine("Adios!");
+			//Linea de prueba
+			Console.WriteLine("Adios! el programa finalizará.");
 
 			Console.ReadKey();
 			
